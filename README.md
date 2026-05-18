@@ -26,7 +26,7 @@ Working with third-party AI services
 Building real-world AI-powered applications
 Installation
 Clone the repository
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/raj3621/Ai-image-generator-react.git
 Navigate to the project folder
 cd your-repository-name
 Install dependencies
