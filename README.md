@@ -10,6 +10,8 @@ API integration for AI image generation
 Real-time user input handling
 Loading state management
 Error handling for API requests
+
+
 Technologies Used
 React JS
 JavaScript
@@ -17,6 +19,8 @@ HTML5
 CSS3
 OpenAI API
 Pollinations AI API
+
+
 What I Learned
 API integration in React
 Handling asynchronous requests using async/await
@@ -24,6 +28,7 @@ React state management with hooks
 Managing loading and error states
 Working with third-party AI services
 Building real-world AI-powered applications
+
 Installation
 Clone the repository
 git clone https://github.com/raj3621/Ai-image-generator-react.git
@@ -33,6 +38,8 @@ Install dependencies
 npm install
 Start the development server
 npm run dev
+
+
 Project Structure
 src/
  ├── components/
@@ -40,6 +47,8 @@ src/
  ├── App.jsx
  ├── main.jsx
  └── styles/
+
+ 
 Future Improvements
 Download generated images
 Add image history
@@ -47,5 +56,7 @@ Multiple image generation options
 Better UI/UX design
 Authentication system
 
+
 Author
+
 Raj
